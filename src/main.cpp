@@ -27,7 +27,6 @@ int main() {
     cout << E.expression("8 9 + 1 7 - * ") << endl;
 
     cout << "Task 4" << std::endl;
-    //main1 mm;
 
     cout << "Task 5" << std::endl;
     TowerOfHanoi toh;
